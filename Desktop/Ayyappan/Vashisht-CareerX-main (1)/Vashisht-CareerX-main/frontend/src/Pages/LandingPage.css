@@ -1,0 +1,37 @@
+.lp-buttons{
+
+    text-decoration: none;
+    list-style: none;
+    color: #2d264b;
+    font-size: 16px;
+    background: #ffffff;
+    border: 1px solid #eaeaea;
+    border-radius: 16px;
+    padding: 11px;
+    margin-top: 15px;
+    cursor: pointer;
+
+
+}
+
+
+.LandingPage-buttons{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.LandingPage-title{
+    font-size: 72px;
+    font-weight: 500;
+    color: #2d264b;
+    text-align: center;
+    margin-top: 100px;
+}
+.LandingPage-desc{
+    font-size: 24px;
+    color : black
+}
