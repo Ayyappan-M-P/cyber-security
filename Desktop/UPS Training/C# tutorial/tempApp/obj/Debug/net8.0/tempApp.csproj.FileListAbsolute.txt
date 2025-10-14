@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.exe
+C:\Users\user\Desktop\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.deps.json
+C:\Users\user\Desktop\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.runtimeconfig.json
+C:\Users\user\Desktop\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.dll
+C:\Users\user\Desktop\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.pdb
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.AssemblyInfo.cs
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.sourcelink.json
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.dll
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\refint\tempApp.dll
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.pdb
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.genruntimeconfig.cache
+C:\Users\user\Desktop\C# tutorial\tempApp\obj\Debug\net8.0\ref\tempApp.dll
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.exe
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.deps.json
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.runtimeconfig.json
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.dll
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\bin\Debug\net8.0\tempApp.pdb
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.AssemblyInfo.cs
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.sourcelink.json
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.dll
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\refint\tempApp.dll
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.pdb
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\tempApp.genruntimeconfig.cache
+C:\Users\user\Desktop\UPS Training\C# tutorial\tempApp\obj\Debug\net8.0\ref\tempApp.dll
